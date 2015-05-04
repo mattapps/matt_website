@@ -1,0 +1,64 @@
+
+PMID- 18368045
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080327
+DCOM- 20080611
+LR  - 20140219
+IS  - 1097-6256 (Print)
+IS  - 1097-6256 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2008 Apr
+TI  - Choice, uncertainty and value in prefrontal and cingulate cortex.
+PG  - 389-97
+LID - 10.1038/nn2066 [doi]
+AB  - Reinforcement learning models that focus on the striatum and dopamine can predict
+      the choices of animals and people. Representations of reward expectation and of
+      reward prediction errors that are pertinent to decision making, however, are not 
+      confined to these regions but are also found in prefrontal and cingulate cortex. 
+      Moreover, decisions are not guided solely by the magnitude of the reward that is 
+      expected. Uncertainty in the estimate of the reward expectation, the value of
+      information that might be gained by taking a course of action and the cost of an 
+      action all influence the manner in which decisions are made through prefrontal
+      and cingulate cortex.
+FAU - Rushworth, Matthew F S
+AU  - Rushworth MF
+AD  - Department of Experimental Psychology and Centre for Functional MRI of the Brain,
+      John Radcliffe Hospital, University of Oxford, South Parks Road, Oxford OX1 3UD, 
+      UK. matthew.rushworth@psy.ox.ac.uk
+FAU - Behrens, Timothy E J
+AU  - Behrens TE
+LA  - eng
+GR  - G0501316/Medical Research Council/United Kingdom
+GR  - G0600994/Medical Research Council/United Kingdom
+GR  - Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20080326
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+SB  - IM
+MH  - Animals
+MH  - Choice Behavior
+MH  - *Decision Making
+MH  - Gyrus Cinguli/*physiology
+MH  - Humans
+MH  - Prefrontal Cortex/*physiology
+MH  - Probability Learning
+MH  - Psychological Theory
+MH  - *Reinforcement (Psychology)
+MH  - Risk Assessment
+MH  - *Uncertainty
+RF  - 100
+EDAT- 2008/03/28 09:00
+MHDA- 2008/06/12 09:00
+CRDT- 2008/03/28 09:00
+PHST- 2008/03/26 [aheadofprint]
+AID - nn2066 [pii]
+AID - 10.1038/nn2066 [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2008 Apr;11(4):389-97. doi: 10.1038/nn2066. Epub 2008 Mar 26.

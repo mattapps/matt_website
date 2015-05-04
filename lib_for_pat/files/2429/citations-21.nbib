@@ -1,0 +1,72 @@
+
+PMID- 17416928
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070627
+DCOM- 20070725
+LR  - 20140325
+IS  - 0077-8923 (Print)
+IS  - 0077-8923 (Linking)
+VI  - 1104
+DP  - 2007 May
+TI  - Cost, benefit, tonic, phasic: what do response rates tell us about dopamine and
+      motivation?
+PG  - 357-76
+AB  - The role of dopamine in decision making has received much attention from both the
+      experimental and computational communities. However, because reinforcement
+      learning models concentrate on discrete action selection and on phasic dopamine
+      signals, they are silent as to how animals decide upon the rate of their actions,
+      and they fail to account for the prominent effects of dopamine on response rates.
+      We suggest an extension to reinforcement learning models in which response rates 
+      are optimally determined by balancing the tradeoff between the cost of fast
+      responding and the benefit of rapid reward acquisition. The resulting behavior
+      conforms well with numerous characteristics of free-operant responding. More
+      importantly, this framework highlights a role for a tonic signal corresponding to
+      the net rate of rewards, in determining the optimal rate of responding. We
+      hypothesize that this critical quantity is conveyed by tonic levels of dopamine, 
+      explaining why dopaminergic manipulations exert a global affect on response
+      rates. We further suggest that the effects of motivation on instrumental rates of
+      responding are mediated through its influence on the net reward rate, implying a 
+      tight coupling between motivational states and tonic dopamine. The relationships 
+      between phasic and tonic dopamine signaling, and between directing and energizing
+      effects of motivation, as well as the implications for motivational control of
+      habitual and goal-directed instrumental action selection, are discussed.
+FAU - Niv, Yael
+AU  - Niv Y
+AD  - Gatsby Computational Neuroscience Unit, UCL, London, United Kingdom.
+      yael@princeton.edu
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20070407
+PL  - United States
+TA  - Ann N Y Acad Sci
+JT  - Annals of the New York Academy of Sciences
+JID - 7506858
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - Animals
+MH  - Behavior, Animal
+MH  - Choice Behavior
+MH  - Conditioning, Operant
+MH  - Corpus Striatum/anatomy & histology
+MH  - Dopamine/*metabolism
+MH  - Feeding Behavior
+MH  - Goals
+MH  - Humans
+MH  - *Learning
+MH  - Models, Anatomic
+MH  - Models, Neurological
+MH  - *Motivation
+MH  - Reinforcement (Psychology)
+MH  - *Reward
+RF  - 102
+EDAT- 2007/04/10 09:00
+MHDA- 2007/07/26 09:00
+CRDT- 2007/04/10 09:00
+PHST- 2007/04/07 [aheadofprint]
+AID - annals.1390.018 [pii]
+AID - 10.1196/annals.1390.018 [doi]
+PST - ppublish
+SO  - Ann N Y Acad Sci. 2007 May;1104:357-76. Epub 2007 Apr 7.

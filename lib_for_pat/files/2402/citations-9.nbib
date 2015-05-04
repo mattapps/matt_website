@@ -1,0 +1,68 @@
+
+PMID- 23889930
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130729
+DCOM- 20131017
+LR  - 20140731
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 79
+IP  - 2
+DP  - 2013 Jul 24
+TI  - The expected value of control: an integrative theory of anterior cingulate cortex
+      function.
+PG  - 217-40
+LID - 10.1016/j.neuron.2013.07.007 [doi]
+LID - S0896-6273(13)00607-7 [pii]
+AB  - The dorsal anterior cingulate cortex (dACC) has a near-ubiquitous presence in the
+      neuroscience of cognitive control. It has been implicated in a diversity of
+      functions, from reward processing and performance monitoring to the execution of 
+      control and action selection. Here, we propose that this diversity can be
+      understood in terms of a single underlying function: allocation of control based 
+      on an evaluation of the expected value of control (EVC). We present a normative
+      model of EVC that integrates three critical factors: the expected payoff from a
+      controlled process, the amount of control that must be invested to achieve that
+      payoff, and the cost in terms of cognitive effort. We propose that dACC
+      integrates this information, using it to determine whether, where and how much
+      control to allocate. We then consider how the EVC model can explain the diverse
+      array of findings concerning dACC function.
+CI  - Copyright (c) 2013 Elsevier Inc. All rights reserved.
+FAU - Shenhav, Amitai
+AU  - Shenhav A
+AD  - Princeton Neuroscience Institute and Department of Psychology, Princeton
+      University, Princeton, NJ 08540, USA.
+FAU - Botvinick, Matthew M
+AU  - Botvinick MM
+FAU - Cohen, Jonathan D
+AU  - Cohen JD
+LA  - eng
+GR  - R01 MH098815/MH/NIMH NIH HHS/United States
+GR  - R01 MH098815/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Animals
+MH  - Cognition/*physiology
+MH  - Gyrus Cinguli/*physiology
+MH  - Humans
+MH  - Motivation/*physiology
+MH  - Nerve Net/*physiology
+PMC - PMC3767969
+MID - NIHMS508160
+OID - NLM: NIHMS508160
+OID - NLM: PMC3767969
+EDAT- 2013/07/31 06:00
+MHDA- 2013/10/18 06:00
+CRDT- 2013/07/30 06:00
+PHST- 2013/07/11 [accepted]
+AID - S0896-6273(13)00607-7 [pii]
+AID - 10.1016/j.neuron.2013.07.007 [doi]
+PST - ppublish
+SO  - Neuron. 2013 Jul 24;79(2):217-40. doi: 10.1016/j.neuron.2013.07.007.

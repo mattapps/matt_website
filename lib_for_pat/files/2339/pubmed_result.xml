@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7711487</PMID>
+        <DateCreated>
+            <Year>1995</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0895-0172</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Season>Winter</Season>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of neuropsychiatry and clinical neurosciences</Title>
+                <ISOAbbreviation>J Neuropsychiatry Clin Neurosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Apathy: a treatable syndrome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Apathy occurs frequently in neuropsychiatric disorders both as a symptom of other syndromes and as a syndrome per se. Histories are presented of patients with a syndrome of apathy who showed clinically significant, sustained benefit from pharmacological treatment. Etiologies included non-Alzheimer's frontal lobe dementia, cerebral infarction, intracranial hemorrhage, alcoholism, and traumatic brain injury. Agents included amantadine, amphetamine, bromocriptine, bupropion, methylphenidate, and selegiline. These histories support the suggestion that apathy is a discriminable dimension of behavior having its own pathophysiology and implications for psychiatric care. They raise the possibility of treatment for many patients previously thought untreatable. Studying the treatment of apathy may contribute to the clinical care and scientific understanding of neuropsychiatric disorders throughout the life span.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Marin</LastName>
+                    <ForeName>R S</ForeName>
+                    <Initials>RS</Initials>
+                    <Affiliation>Western Psychiatric Institute and Clinic, University of Pittsburgh, PA 15213, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fogel</LastName>
+                    <ForeName>B S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hawkins</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duffy</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krupp</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Neuropsychiatry Clin Neurosci</MedlineTA>
+            <NlmUniqueID>8911344</NlmUniqueID>
+            <ISSNLinking>0895-0172</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Affective Symptoms</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Depression</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Syndrome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7711487</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

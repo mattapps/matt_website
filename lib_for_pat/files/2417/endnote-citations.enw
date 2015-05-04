@@ -1,0 +1,15 @@
+%A Apps, Matthew A.J.
+%A Lesage, Elise
+%A Ramnani, Narender
+%T Vicarious Reinforcement Learning Signals When Instructing Others
+%0 Journal Article
+%D 2015 
+%8 February 18, 2015 
+%J The Journal of Neuroscience 
+%P 2904-2913 
+%R 10.1523/JNEUROSCI.3669-14.2015 
+%V 35 
+%N 7 
+%U http://www.jneurosci.org/content/35/7/2904.abstract 
+%X Reinforcement learning (RL) theory posits that learning is driven by discrepancies between the predicted and actual outcomes of actions (prediction errors [PEs]). In social environments, learning is often guided by similar RL mechanisms. For example, teachers monitor the actions of students and provide feedback to them. This feedback evokes PEs in students that guide their learning. We report the first study that investigates the neural mechanisms that underpin RL signals in the brain of a teacher. Neurons in the anterior cingulate cortex (ACC) signal PEs when learning from the outcomes of one's own actions but also signal information when outcomes are received by others. Does a teacher's ACC signal PEs when monitoring a student's learning? Using fMRI, we studied brain activity in human subjects (teachers) as they taught a confederate (student) action–outcome associations by providing positive or negative feedback. We examined activity time-locked to the students' responses, when teachers infer student predictions and know actual outcomes. We fitted a RL-based computational model to the behavior of the student to characterize their learning, and examined whether a teacher's ACC signals when a student's predictions are wrong. In line with our hypothesis, activity in the teacher's ACC covaried with the PE values in the model. Additionally, activity in the teacher's insula and ventromedial prefrontal cortex covaried with the predicted value according to the student. Our findings highlight that the ACC signals PEs vicariously for others' erroneous predictions, when monitoring and instructing their learning. These results suggest that RL mechanisms, processed vicariously, may underpin and facilitate teaching behaviors. 
+

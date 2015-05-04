@@ -1,0 +1,92 @@
+
+PMID- 25816114
+OWN - NLM
+STAT- In-Process
+DA  - 20150330
+LR  - 20150405
+IS  - 1553-7358 (Electronic)
+IS  - 1553-734X (Linking)
+VI  - 11
+IP  - 3
+DP  - 2015 Mar
+TI  - Behavioral modeling of human choices reveals dissociable effects of physical
+      effort and temporal delay on reward devaluation.
+PG  - e1004116
+LID - 10.1371/journal.pcbi.1004116 [doi]
+AB  - There has been considerable interest from the fields of biology, economics,
+      psychology, and ecology about how decision costs decrease the value of rewarding 
+      outcomes. For example, formal descriptions of how reward value changes with
+      increasing temporal delays allow for quantifying individual decision preferences,
+      as in animal species populating different habitats, or normal and clinical human 
+      populations. Strikingly, it remains largely unclear how humans evaluate rewards
+      when these are tied to energetic costs, despite the surge of interest in the
+      neural basis of effort-guided decision-making and the prevalence of disorders
+      showing a diminished willingness to exert effort (e.g., depression). One common
+      assumption is that effort discounts reward in a similar way to delay. Here we
+      challenge this assumption by formally comparing competing hypotheses about effort
+      and delay discounting. We used a design specifically optimized to compare
+      discounting behavior for both effort and delay over a wide range of decision
+      costs (Experiment 1). We then additionally characterized the profile of effort
+      discounting free of model assumptions (Experiment 2). Contrary to previous
+      reports, in both experiments effort costs devalued reward in a manner opposite to
+      delay, with small devaluations for lower efforts, and progressively larger
+      devaluations for higher effort-levels (concave shape). Bayesian model comparison 
+      confirmed that delay-choices were best predicted by a hyperbolic model, with the 
+      largest reward devaluations occurring at shorter delays. In contrast, an
+      altogether different relationship was observed for effort-choices, which were
+      best described by a model of inverse sigmoidal shape that is initially concave.
+      Our results provide a novel characterization of human effort discounting behavior
+      and its first dissociation from delay discounting. This enables accurate
+      modelling of cost-benefit decisions, a prerequisite for the investigation of the 
+      neural underpinnings of effort-guided choice and for understanding the deficits
+      in clinical disorders characterized by behavioral inactivity.
+FAU - Klein-Flugge, Miriam C
+AU  - Klein-Flugge MC
+AD  - Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute of 
+      Neurology, University College London (UCL), London, United Kingdom; Wellcome
+      Trust Centre for Neuroimaging, University College London (UCL), London, United
+      Kingdom; Department of Experimental Psychology, University of Oxford, Oxford,
+      United Kingdom.
+FAU - Kennerley, Steven W
+AU  - Kennerley SW
+AD  - Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute of 
+      Neurology, University College London (UCL), London, United Kingdom.
+FAU - Saraiva, Ana C
+AU  - Saraiva AC
+AD  - Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute of 
+      Neurology, University College London (UCL), London, United Kingdom.
+FAU - Penny, Will D
+AU  - Penny WD
+AD  - Wellcome Trust Centre for Neuroimaging, University College London (UCL), London, 
+      United Kingdom.
+FAU - Bestmann, Sven
+AU  - Bestmann S
+AD  - Sobell Department of Motor Neuroscience and Movement Disorders, UCL Institute of 
+      Neurology, University College London (UCL), London, United Kingdom.
+LA  - eng
+GR  - 086120/Z/08/Z/Wellcome Trust/United Kingdom
+GR  - 091593/Z/10//Wellcome Trust/United Kingdom
+GR  - 096689/Z/11/Z/Wellcome Trust/United Kingdom
+GR  - Biotechnology and Biological Sciences Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150327
+PL  - United States
+TA  - PLoS Comput Biol
+JT  - PLoS computational biology
+JID - 101238922
+SB  - IM
+PMC - PMC4376637
+OID - NLM: PMC4376637
+EDAT- 2015/03/31 06:00
+MHDA- 2015/03/31 06:00
+CRDT- 2015/03/28 06:00
+PHST- 2015/03 [ecollection]
+PHST- 2013/07/19 [received]
+PHST- 2015/01/07 [accepted]
+PHST- 2015/03/27 [epublish]
+AID - 10.1371/journal.pcbi.1004116 [doi]
+AID - PCOMPBIOL-D-13-01289 [pii]
+PST - epublish
+SO  - PLoS Comput Biol. 2015 Mar 27;11(3):e1004116. doi: 10.1371/journal.pcbi.1004116. 
+      eCollection 2015 Mar.

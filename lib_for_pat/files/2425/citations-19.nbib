@@ -1,0 +1,87 @@
+
+PMID- 23416066
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140424
+DCOM- 20141209
+IS  - 1873-7528 (Electronic)
+IS  - 0149-7634 (Linking)
+VI  - 41
+DP  - 2014 Apr
+TI  - The free-energy self: a predictive coding account of self-recognition.
+PG  - 85-97
+LID - 10.1016/j.neubiorev.2013.01.029 [doi]
+LID - S0149-7634(13)00042-0 [pii]
+AB  - Recognising and representing one's self as distinct from others is a fundamental 
+      component of self-awareness. However, current theories of self-recognition are
+      not embedded within global theories of cortical function and therefore fail to
+      provide a compelling explanation of how the self is processed. We present a
+      theoretical account of the neural and computational basis of self-recognition
+      that is embedded within the free-energy account of cortical function. In this
+      account one's body is processed in a Bayesian manner as the most likely to be
+      "me". Such probabilistic representation arises through the integration of
+      information from hierarchically organised unimodal systems in higher-level
+      multimodal areas. This information takes the form of bottom-up "surprise" signals
+      from unimodal sensory systems that are explained away by top-down processes that 
+      minimise the level of surprise across the brain. We present evidence that this
+      theoretical perspective may account for the findings of psychological and
+      neuroimaging investigations into self-recognition and particularly evidence that 
+      representations of the self are malleable, rather than fixed as previous accounts
+      of self-recognition might suggest.
+CI  - Copyright (c) 2013 Elsevier Ltd. All rights reserved.
+FAU - Apps, Matthew A J
+AU  - Apps MA
+AD  - Laboratory of Action and Body, Department of Psychology, Royal Holloway,
+      University of London, UK. Electronic address: m.apps@rhul.ac.uk.
+FAU - Tsakiris, Manos
+AU  - Tsakiris M
+AD  - Laboratory of Action and Body, Department of Psychology, Royal Holloway,
+      University of London, UK. Electronic address: manos.tsakiris@rhul.ac.uk.
+LA  - eng
+GR  - 262853/European Research Council/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20130215
+PL  - United States
+TA  - Neurosci Biobehav Rev
+JT  - Neuroscience and biobehavioral reviews
+JID - 7806090
+SB  - IM
+MH  - Animals
+MH  - Bayes Theorem
+MH  - Brain/*physiology
+MH  - Humans
+MH  - Illusions/physiology
+MH  - *Models, Neurological
+MH  - Perception/*physiology
+MH  - Recognition (Psychology)/*physiology
+MH  - *Self Concept
+PMC - PMC3848896
+MID - EMS54501
+OID - NLM: EMS54501
+OID - NLM: PMC3848896
+OTO - NOTNLM
+OT  - Bayesian
+OT  - Body ownership
+OT  - Enfacement
+OT  - Face recognition
+OT  - Free energy
+OT  - Prediction error
+OT  - Predictive coding
+OT  - Rubber hand illusion
+OT  - Self-awareness
+OT  - Self-recognition
+OT  - Voice recognition
+EDAT- 2013/02/19 06:00
+MHDA- 2014/12/15 06:00
+CRDT- 2013/02/19 06:00
+PHST- 2012/11/21 [received]
+PHST- 2013/01/10 [revised]
+PHST- 2013/01/28 [accepted]
+PHST- 2013/02/15 [aheadofprint]
+AID - S0149-7634(13)00042-0 [pii]
+AID - 10.1016/j.neubiorev.2013.01.029 [doi]
+PST - ppublish
+SO  - Neurosci Biobehav Rev. 2014 Apr;41:85-97. doi: 10.1016/j.neubiorev.2013.01.029.
+      Epub 2013 Feb 15.

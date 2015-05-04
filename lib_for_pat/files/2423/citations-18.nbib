@@ -1,0 +1,70 @@
+
+PMID- 24220539
+OWN - NLM
+STAT- MEDLINE
+DA  - 20131113
+DCOM- 20140715
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 4
+DP  - 2013
+TI  - Predictive codes of familiarity and context during the perceptual learning of
+      facial identities.
+PG  - 2698
+LID - 10.1038/ncomms3698 [doi]
+AB  - Face recognition is a key component of successful social behaviour. However, the 
+      computational processes that underpin perceptual learning and recognition as
+      faces transition from unfamiliar to familiar are poorly understood. In predictive
+      coding, learning occurs through prediction errors that update stimulus
+      familiarity, but recognition is a function of both stimulus and contextual
+      familiarity. Here we show that behavioural responses on a two-option face
+      recognition task can be predicted by the level of contextual and facial
+      familiarity in a computational model derived from predictive-coding principles.
+      Using fMRI, we show that activity in the superior temporal sulcus varies with the
+      contextual familiarity in the model, whereas activity in the fusiform face area
+      covaries with the prediction error parameter that updated facial familiarity. Our
+      results characterize the key computations underpinning the perceptual learning of
+      faces, highlighting that the functional properties of face-processing areas
+      conform to the principles of predictive coding.
+FAU - Apps, Matthew A J
+AU  - Apps MA
+AD  - 1] Nuffield Department of Clinical Neuroscience, University of Oxford, Oxford OX3
+      9DU, UK [2] Department of Experimental Psychology, University of Oxford, Oxford
+      OX1 3UD, UK [3] Laboratory of Action and Body, Department of Psychology,
+      University of London, Royal Holloway, Egham, Surrey TW20 0EX, UK.
+FAU - Tsakiris, Manos
+AU  - Tsakiris M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Brain Mapping
+MH  - Computer Simulation
+MH  - *Face
+MH  - Female
+MH  - Humans
+MH  - Learning
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Pattern Recognition, Visual/*physiology
+MH  - *Perception
+MH  - Probability
+MH  - Random Allocation
+MH  - Recognition (Psychology)/*physiology
+MH  - Temporal Lobe/pathology
+MH  - Young Adult
+EDAT- 2013/11/14 06:00
+MHDA- 2014/07/16 06:00
+CRDT- 2013/11/14 06:00
+PHST- 2012/11/08 [received]
+PHST- 2013/10/01 [accepted]
+AID - ncomms3698 [pii]
+AID - 10.1038/ncomms3698 [doi]
+PST - ppublish
+SO  - Nat Commun. 2013;4:2698. doi: 10.1038/ncomms3698.

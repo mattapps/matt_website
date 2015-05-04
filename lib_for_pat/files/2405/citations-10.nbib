@@ -1,0 +1,87 @@
+
+PMID- 24667454
+OWN - NLM
+STAT- In-Process
+DA  - 20140603
+IS  - 1095-9572 (Electronic)
+IS  - 1053-8119 (Linking)
+VI  - 95
+DP  - 2014 Jul 15
+TI  - Distinct regions of anterior cingulate cortex signal prediction and outcome
+      evaluation.
+PG  - 80-9
+LID - 10.1016/j.neuroimage.2014.03.050 [doi]
+LID - S1053-8119(14)00210-9 [pii]
+AB  - A number of theories have been proposed to account for the role of anterior
+      cingulate cortex (ACC) and the broader medial prefrontal cortex (mPFC) in
+      cognition. The recent Prediction of Response Outcome (PRO) computational model
+      casts the mPFC in part as performing two theoretically distinct functions:
+      learning to predict the various possible outcomes of actions, and then evaluating
+      those predictions against the actual outcomes. Simulations have shown that this
+      new model can account for an unprecedented range of known mPFC effects, but the
+      central theory of distinct prediction and evaluation mechanisms within ACC
+      remains untested. Using combined computational neural modeling and fMRI, we show 
+      here that prediction and evaluation signals are indeed each represented in the
+      ACC, and furthermore, they are represented in distinct regions within ACC. Our
+      task independently manipulated both the number of predicted outcomes and the
+      degree to which outcomes violated expectancies, the former providing assessment
+      of regions sensitive to prediction and the latter providing assessment of regions
+      sensitive to evaluation. Using quantitative regressors derived from the PRO
+      computational model, we show that prediction-based model signals load on a
+      network including the posterior and perigenual ACC, but outcome evaluation model 
+      signals load on the mid-dorsal ACC. These findings are consistent with distinct
+      prediction and evaluation signals as posited by the PRO model and provide new
+      perspective on a large set of known effects within ACC.
+CI  - Copyright (c) 2014 Elsevier Inc. All rights reserved.
+FAU - Jahn, Andrew
+AU  - Jahn A
+AD  - Dept. of Psychological and Brain Sciences, Indiana University, 1101 E Tenth St,
+      Bloomington, IN 47405, USA.
+FAU - Nee, Derek Evan
+AU  - Nee DE
+AD  - Helen Wills Neuroscience Institute, University of California, 132 Barker Hall,
+      Berkeley, CA 94720, USA.
+FAU - Alexander, William H
+AU  - Alexander WH
+AD  - Dept. of Experimental Psychology, Ghent University, Henri Dunantlaan 2, B-9000
+      Ghent, Belgium.
+FAU - Brown, Joshua W
+AU  - Brown JW
+AD  - Dept. of Psychological and Brain Sciences, Indiana University, 1101 E Tenth St,
+      Bloomington, IN 47405, USA. Electronic address: jwmbrown@indiana.edu.
+LA  - eng
+GR  - F32 NS082069/NS/NINDS NIH HHS/United States
+GR  - F32 NS082069/NS/NINDS NIH HHS/United States
+GR  - R01 DA026457/DA/NIDA NIH HHS/United States
+GR  - R01 DA026457/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140322
+PL  - United States
+TA  - Neuroimage
+JT  - NeuroImage
+JID - 9215515
+SB  - IM
+PMC - PMC4077597
+MID - NIHMS590135
+OID - NLM: NIHMS590135 [Available on 07/15/15]
+OID - NLM: PMC4077597 [Available on 07/15/15]
+OTO - NOTNLM
+OT  - Anterior cingulate cortex
+OT  - Cognitive control
+OT  - Computational modeling
+OT  - PRO model
+EDAT- 2014/03/29 06:00
+MHDA- 2014/03/29 06:00
+CRDT- 2014/03/27 06:00
+PMCR- 2015/07/15 00:00
+PHST- 2013/10/28 [received]
+PHST- 2014/03/11 [revised]
+PHST- 2014/03/17 [accepted]
+PHST- 2014/03/22 [aheadofprint]
+AID - S1053-8119(14)00210-9 [pii]
+AID - 10.1016/j.neuroimage.2014.03.050 [doi]
+PST - ppublish
+SO  - Neuroimage. 2014 Jul 15;95:80-9. doi: 10.1016/j.neuroimage.2014.03.050. Epub 2014
+      Mar 22.

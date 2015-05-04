@@ -1,0 +1,26 @@
+TY  - JOUR
+T1  - From conflict management to reward-based decision making: Actors and critics in primate medial frontal cortex
+JO  - Neuroscience & Biobehavioral Reviews
+VL  - 46, Part 1
+IS  - 0
+SP  - 44
+EP  - 57
+PY  - 2014/10//
+T2  - Micro- and Macro-Perspectives on Cognitive Conflict Control
+AU  - Silvetti, Massimo
+AU  - Alexander, William
+AU  - Verguts, Tom
+AU  - Brown, Joshua W.
+SN  - 0149-7634
+DO  - http://dx.doi.org/10.1016/j.neubiorev.2013.11.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0149763413002698
+KW  - Anterior cingulate
+KW  - Reinforcement learning
+KW  - Conflict monitoring
+KW  - Cognitive control
+KW  - Computational modeling
+AB  - Abstract
+The role of the medial prefrontal cortex (mPFC) and especially the anterior cingulate cortex has been the subject of intense debate for the last decade. A number of theories have been proposed to account for its function. Broadly speaking, some emphasize cognitive control, whereas others emphasize value processing; specific theories concern reward processing, conflict detection, error monitoring, and volatility detection, among others. Here we survey and evaluate them relative to experimental results from neurophysiological, anatomical, and cognitive studies. We argue for a new conceptualization of mPFC, arising from recent computational modeling work. Based on reinforcement learning theory, these new models propose that mPFC is an Actor–Critic system. This system is aimed to predict future events including rewards, to evaluate errors in those predictions, and finally, to implement optimal skeletal-motor and visceromotor commands to obtain reward. This framework provides a comprehensive account of mPFC function, accounting for and predicting empirical results across different levels of analysis, including monkey neurophysiology, human ERP, human neuroimaging, and human behavior.
+ER  - 
+
+

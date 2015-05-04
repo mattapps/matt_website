@@ -1,0 +1,76 @@
+
+PMID- 19443783
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090515
+DCOM- 20090529
+LR  - 20140908
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 324
+IP  - 5929
+DP  - 2009 May 15
+TI  - Fictive reward signals in the anterior cingulate cortex.
+PG  - 948-50
+LID - 10.1126/science.1168488 [doi]
+AB  - The neural mechanisms supporting the ability to recognize and respond to fictive 
+      outcomes, outcomes of actions that one has not taken, remain obscure. We
+      hypothesized that neurons in the anterior cingulate cortex (ACC), which monitors 
+      the consequences of actions and mediates subsequent changes in behavior, would
+      respond to fictive reward information. We recorded responses of single neurons
+      during performance of a choice task that provided information about the reward
+      values of options that were not chosen. We found that ACC neurons signal fictive 
+      reward information and use a coding scheme similar to that used to signal
+      experienced outcomes. Thus, individual ACC neurons process both experienced and
+      fictive rewards.
+FAU - Hayden, Benjamin Y
+AU  - Hayden BY
+AD  - Department of Neurobiology, Duke University School of Medicine, Center for
+      Neuroeconomic Studies, Center for Cognitive Neuroscience, Duke University,
+      Durham, NC 27701, USA. hayden@neuro.duke.edu
+FAU - Pearson, John M
+AU  - Pearson JM
+FAU - Platt, Michael L
+AU  - Platt ML
+LA  - eng
+GR  - 013496/PHS HHS/United States
+GR  - 023338/PHS HHS/United States
+GR  - F32 DA023338/DA/NIDA NIH HHS/United States
+GR  - F32 DA023338-01A1/DA/NIDA NIH HHS/United States
+GR  - F32 DA023338-02/DA/NIDA NIH HHS/United States
+GR  - K99 DA027718/DA/NIDA NIH HHS/United States
+GR  - K99 DA027718-01/DA/NIDA NIH HHS/United States
+GR  - K99 DA027718-02/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+SB  - IM
+MH  - Action Potentials
+MH  - Animals
+MH  - Behavior, Animal
+MH  - Brain Mapping
+MH  - *Choice Behavior
+MH  - Cues
+MH  - Fixation, Ocular
+MH  - Gyrus Cinguli/*physiology
+MH  - Macaca mulatta
+MH  - Male
+MH  - Neural Pathways
+MH  - Neurons/*physiology
+MH  - Reaction Time
+MH  - *Reward
+PMC - PMC3096846
+MID - NIHMS287157
+OID - NLM: NIHMS287157
+OID - NLM: PMC3096846
+EDAT- 2009/05/16 09:00
+MHDA- 2009/05/30 09:00
+CRDT- 2009/05/16 09:00
+AID - 324/5929/948 [pii]
+AID - 10.1126/science.1168488 [doi]
+PST - ppublish
+SO  - Science. 2009 May 15;324(5929):948-50. doi: 10.1126/science.1168488.

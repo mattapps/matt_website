@@ -1,0 +1,74 @@
+
+PMID- 25698730
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20150220
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Linking)
+VI  - 35
+IP  - 7
+DP  - 2015 Feb 18
+TI  - Vicarious reinforcement learning signals when instructing others.
+PG  - 2904-13
+LID - 10.1523/JNEUROSCI.3669-14.2015 [doi]
+AB  - Reinforcement learning (RL) theory posits that learning is driven by
+      discrepancies between the predicted and actual outcomes of actions (prediction
+      errors [PEs]). In social environments, learning is often guided by similar RL
+      mechanisms. For example, teachers monitor the actions of students and provide
+      feedback to them. This feedback evokes PEs in students that guide their learning.
+      We report the first study that investigates the neural mechanisms that underpin
+      RL signals in the brain of a teacher. Neurons in the anterior cingulate cortex
+      (ACC) signal PEs when learning from the outcomes of one's own actions but also
+      signal information when outcomes are received by others. Does a teacher's ACC
+      signal PEs when monitoring a student's learning? Using fMRI, we studied brain
+      activity in human subjects (teachers) as they taught a confederate (student)
+      action-outcome associations by providing positive or negative feedback. We
+      examined activity time-locked to the students' responses, when teachers infer
+      student predictions and know actual outcomes. We fitted a RL-based computational 
+      model to the behavior of the student to characterize their learning, and examined
+      whether a teacher's ACC signals when a student's predictions are wrong. In line
+      with our hypothesis, activity in the teacher's ACC covaried with the PE values in
+      the model. Additionally, activity in the teacher's insula and ventromedial
+      prefrontal cortex covaried with the predicted value according to the student. Our
+      findings highlight that the ACC signals PEs vicariously for others' erroneous
+      predictions, when monitoring and instructing their learning. These results
+      suggest that RL mechanisms, processed vicariously, may underpin and facilitate
+      teaching behaviors.
+CI  - Copyright (c) 2015 Apps et al.
+FAU - Apps, Matthew A J
+AU  - Apps MA
+AD  - Nuffield Department of Clinical Neuroscience, University of Oxford, Oxford OX1
+      9DU, United Kingdom, Department of Experimental Psychology, University of Oxford,
+      Oxford OX1 2JD, United Kingdom, Department of Psychology, Royal Holloway,
+      University of London, Surrey TW20 0EX, United Kingdom, and
+      matthew.apps@ndcn.ox.ac.uk.
+FAU - Lesage, Elise
+AU  - Lesage E
+AD  - Department of Psychology, Royal Holloway, University of London, Surrey TW20 0EX, 
+      United Kingdom, and Neuroimaging Research Branch, Intramural Research Program,
+      National Institute on Drug Abuse, National Institutes of Health, Baltimore,
+      Maryland 21224.
+FAU - Ramnani, Narender
+AU  - Ramnani N
+AD  - Department of Psychology, Royal Holloway, University of London, Surrey TW20 0EX, 
+      United Kingdom, and.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for
+      Neuroscience
+JID - 8102140
+SB  - IM
+OTO - NOTNLM
+OT  - cingulate
+OT  - fMRI
+OT  - prediction error
+OT  - reinforcement learning
+OT  - social
+OT  - teaching
+CRDT- 2015/02/21 06:00
+AID - 35/7/2904 [pii]
+AID - 10.1523/JNEUROSCI.3669-14.2015 [doi]
+PST - ppublish
+SO  - J Neurosci. 2015 Feb 18;35(7):2904-13. doi: 10.1523/JNEUROSCI.3669-14.2015.
