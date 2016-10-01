@@ -76,7 +76,7 @@ background-repeat: norepeat:
     header ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
-      font-size: 25px;
+      font-size: 20px;
       max-width: 1000px
     }
     header li {
@@ -97,7 +97,6 @@ background-repeat: norepeat:
     }
 
     p {
-    font-size: 250px;
      text-align: justify;
     }
 
@@ -107,9 +106,6 @@ background-repeat: norepeat:
     }
 
     .center-h2{
-      text-align: center;   
-    }
-    .center-h3{
       text-align: center;   
     }
 
